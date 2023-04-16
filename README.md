@@ -33,7 +33,7 @@
 
 ### ⚔️ 현재 하고 있는 것
 
-- 한양대학교 인공지능 동아리 HAI 딥러닝 스터디 강의 및 HAI-ground 기획/개발
+- 한양대학교 인공지능 동아리 HAI 딥러닝 스터디 강의 및 [HAI-ground](https://github.com/HanyangTechAI/HAI-ground) 기획/개발
 - 졸업 프로젝트(자연어 처리 모델 quantization)
 - 알고리즘 문제 풀이(취미 겸 취업 준비…)
 - 관심 분야 관련 open source contribution(TBD)
