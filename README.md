@@ -6,3 +6,38 @@
 
 [![GirinMan's GitHub stats](https://github-readme-stats.vercel.app/api?username=girinman)](https://github.com/anuraghazra/github-readme-stats)
 
+### 📜 간단한 이력
+
+- 한양대학교 컴퓨터소프트웨어학부 18학번
+- 2018 ~ 2019 한양대학교 학생보안팀 ICEWALL 활동
+- 2020 ~ 2021 육군 정보보호병 복무
+- 2022 Google machine learning bootcamp 수료 및 Tensorflow certificate 취득
+- 2022 [NAVER CLOVA AI RUSH](https://campaign.naver.com/clova_airush/) 챌린지 참여
+  - 1라운드(엉터리 문서 검출) **5위**
+  - 2라운드(Long Doc. Summarization) **1위**
+- 2022.12 ~ 2023.2 NAVER Cloud Hyperscale AI 인턴
+
+### 🤩 현재 관심사
+
+- NLP(자연어 처리) 전반: Transformer 모델(BERT, GPT, T5, …)을 활용한 NLP task 해결
+- Large scale Language Model: GPT-3, HyperCLOVA 등의 초거대 생성 언어 모델
+- Model quantization: 모델 최적화를 통한 memory-efficient한 inference
+- RL(강화학습) with NLP models
+- NLP 기술을 활용한 HCI(인간-컴퓨터 상호작용)
+
+### 👾 특별한 경험
+
+- 새내기 시절 과 밴드 동아리 보컬이었습니다.
+- 22년 1학기에 학교에 도시락 싸들고 다니면서 바디프로필 찍은 적이 있습니다.
+- 동네 헬스장에서 PT 트레이너로 1년 정도 일했습니다.
+
+### ⚔️ 현재 하고 있는 것
+
+- 한양대학교 인공지능 동아리 HAI 딥러닝 스터디 강의 및 HAI-ground 기획/개발
+- 졸업 프로젝트(자연어 처리 모델 quantization)
+- 알고리즘 문제 풀이(취미 겸 취업 준비…)
+- 관심 분야 관련 open source contribution(TBD)
+
+### 🏄‍♀️ 취미
+
+- 순 공부 시간 <<<<< 헬스장에서 운동하는 시간
