@@ -15,15 +15,17 @@
 - 2022 [NAVER CLOVA AI RUSH](https://campaign.naver.com/clova_airush/) 챌린지 참여
   - 1라운드(엉터리 문서 검출) **5위**
   - 2라운드(Long Doc. Summarization) **1위**
-- 2022.12 ~ 2023.2 NAVER Cloud Hyperscale AI 인턴
+- 2022.12 ~ 2023.02 NAVER CLOVA Hyperscale AI 인턴
+- 2023.08 ~ [BHSN.AI](https://bhsn.ai) NLP Engineer
 
 ### 🤩 현재 관심사
 
 - NLP(자연어 처리) 전반: Transformer 모델(BERT, GPT, T5, …)을 활용한 NLP task 해결
 - Large scale Language Model: GPT-3, HyperCLOVA 등의 초거대 생성 언어 모델
-- Model quantization: 모델 최적화를 통한 memory-efficient한 inference
-- RL(강화학습) with NLP models
-- NLP 기술을 활용한 HCI(인간-컴퓨터 상호작용)
+- Quantization 등 모델 최적화를 통한 memory-efficient한 inference
+- LoRA, IA3 등 parameter-efficient finetuning
+- Semantic Search & Retrival Augmented Generation
+- NLP 기술을 활용한 Bunsiness Product 개발
 
 ### 👾 특별한 경험
 
@@ -33,4 +35,4 @@
 
 ### 🏄‍♀️ 취미
 
-- 일과 시간의 약 10% 이상을 헬스장에서 운동하는데 사용합니다.
+- 전체 시간의 약 10% 정도를 헬스장에서 운동하는데 사용합니다.
